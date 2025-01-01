@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+.env
+.env.*
+!.env.example
+.cursor
+.vscode
+*.log
+.next
+dist
+build
+coverage
